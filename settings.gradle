@@ -1,0 +1,2 @@
+rootProject.name='ConnectionTest'
+include ':app'
